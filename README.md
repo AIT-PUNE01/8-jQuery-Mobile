@@ -1,5 +1,3 @@
 # 8-jQuery-Mobile
 
-Git commands:
-
-```bsjkbls```
+```GO LIVE```
